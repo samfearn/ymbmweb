@@ -21,7 +21,7 @@ Click on the subsections below to see some examples and ideas of how children co
 <details open markdown ="1">
 <summary markdown="span">**Sorting Leaves**</summary>
 <p></p>
-### Leaves 
+## Leaves 
 One child decided to sort a collection of leaves by colour. This is a great example of grouping qualitative data (you can read about the different types of data in our article [“types of data”]({{site.baseulr}}/articles/types_of_data)). If they wanted to, the child could then record the number of leaves of each colour using a [tally]({{site.baseulr}}/articles/data_collection/#tallies) and then display this data using a [bar chart]({{site.baseulr}}/articles/types_of_graphs/#bar-charts).
 
 {% include figure image_path="/assets/img/grouping_leaves.jpeg" alt=" A photo of leaves on a table, sorted into groups by their colours." title= "Sorting leaves" %}
@@ -41,7 +41,7 @@ One child decided to sort a collection of leaves by colour. This is a great exam
 <details markdown ="1">
 <summary markdown="span">**Collecting Rain**</summary>
 <p></p>
-### Collecting Rain 
+## Collecting Rain 
 
 At one nursery, a child was very interested in the rain and decided to collect some rainwater. To do this, they placed a bucket in the rain and left it for some time. Other children then became interested and added more containers. The child was happy to see how much water their bucket had collected and asked to leave it outside overnight, as they knew it would collect more water.
 
@@ -52,7 +52,7 @@ To continue their exploration, the children could measure the amount of water co
 <details markdown ="1">
 <summary markdown="span">**Click here to see the data**</summary>
 
-### Pretend Rainfall Data:
+## Pretend Rainfall Data:
 
 | Day   | Amount of Rainfall |
 |-------|--------------------|
@@ -80,12 +80,12 @@ To continue their exploration, the children could measure the amount of water co
 
 </details>
 <p></p>
-### Using a Line Graph
+## Using a Line Graph
 The children could use a [line graph]({{site.baseulr}}/articles/types_of_graphs/#line-graphs) as described in our article on types of graphs to visualise the pattern of rainfall over several days. An example of this graph using the pretend data is given below; the children may enjoy seeing the peaks where there were clusters of rainy days.
 
 {% include figure image_path="/assets/img/rainfall_line_graph.jpeg" alt=" A line graph showing the rainfall data given above." title= "A line graph of rainfall data" %}
 
-### Using a Histogram
+## Using a Histogram
 The children could also use a [histogram]({{site.baseulr}}/articles/types_of_graphs/#histograms) as described in our article on types of graphs to visualise how many days had rainfall between 0mm and 3mm, compared to the number of days that had rainfall between 3mm and 6mm and so on. An example of this graph using the pretend data is given below.
 
 {% include figure image_path="/assets/img/rainfall_histogram.jpeg" alt=" A histogram showing the rainfall data given above." title= "A histogram of rainfall data" %}
