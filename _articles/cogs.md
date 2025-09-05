@@ -45,7 +45,7 @@ When the teeth of two cogs do not have a common factor, the number of rotations 
 
 If we had a 5-toothed cog and a 12-toothed cog, their lowest common multiple would be 60. This means that the 5-toothed cog would rotate $$\frac{60}{5} = 12$$ times, and the 12-toothed cog would rotate $$\frac{60}{12} = 5$$ times before the two cogs were again facing upright at the same time. 
 
-{% include figure image_path="/assets/img/four_cog_system.jpeg" alt=" Three cogs with 4,5 and 6 teeth respectively, all connected to just one central cog with 12 teeth." title= "Four cog system" %}
+{% include figure image_path="/assets/img/four_cog_image.jpeg" alt=" Three cogs with 4,5 and 6 teeth respectively, all connected to just one central cog with 12 teeth." title= "Four cog system" %}
 
 In the table below, we can see the number of rotations it would take for the system of 4 cogs shown above to be facing upright at the same time. We can see that the smaller the cog, the more turns it will complete. It could be fun for the children to learn about these ratios by assigning a group of children to each cog. Each time their cog is facing upright, the children could shout the colour of their cog. This way, the children could hear the comparative speeds of the cogs and when their positions align. 
 

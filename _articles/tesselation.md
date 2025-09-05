@@ -41,11 +41,11 @@ If we coloured some of the hexagons the same colour as the triangles, we can tra
 
 We can also tessellate shapes that are not polygons. M. C. Escher, a Dutch artist, made a lot of work focused on exploring mathematics through art. He made several prints exploring the tessellation of irregular shapes; there are lots of examples of these online. In the image below is a tessellation of an irregular shape inspired by the prints of Escher. 
 
-{% include figure image_path="/assets/img/escher_full.jpeg" alt="A tiling of an irregular shape coloured in with pink, blue and orange." title="An irregular tiling" %}
+{% include figure image_path="/assets/img/full_escher.jpeg" alt="A tiling of an irregular shape coloured in with pink, blue and orange." title="An irregular tiling" %}
 
 The key to many of Escher’s tilings is that they are modifications of regular polygon tilings. We can see this by overlaying a grid on the tiling (note this may be a grid of any polygon shape). In the image below, we can see a grid of rectangles overlaid on our Escher tiling. When we zoom into one of the rectangular sections, we can see that the pieces cut out from the tiling are the same pieces in the same orientation that are added on to create the irregular shape that is tiled. 
 
-{% include figure image_path="/assets/img/escher_boxes.jpeg" alt="A tiling of an irregular shape coloured in with pink, blue and orange. The tiling has a grid of rectangles drawn on top of it." title="An irregular tiling with a grid" %}
+{% include figure image_path="/assets/img/boxes_escher.jpeg" alt="A tiling of an irregular shape coloured in with pink, blue and orange. The tiling has a grid of rectangles drawn on top of it." title="An irregular tiling with a grid" %}
 {% include figure image_path="/assets/img/escher_zoom_in.jpeg" alt="Two images on the right, one rectangle from the irregular tiling. On the left is a rectangle cut up into the sections shown on the right. " title="Zooming in to one rectangle of an irregular tiling" %}
 {% include figure image_path="/assets/img/escher_construction.jpeg" alt="Three images showing how the stencil for the irregular tiling was constructed. Starting from a rectangle, the relevant pieces are cut out and then added to the remainder of the rectangle." title="Creating a stencil of the irregular shape" %}
 

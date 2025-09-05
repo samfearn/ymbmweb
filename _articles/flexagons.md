@@ -25,13 +25,11 @@ Children can make a trihexaflexagon by folding equilateral triangles on a strip 
 
 Once you have the above strip of paper, you can twist it around so that it looks like the image below. We need two flat faces and then a twist, then another two flat faces and a twist and so on. Once the strip is twisted in this way, you can use tape to secure the two end triangles together along the outside edge. Now you are ready to start experimenting! 
 
-{% include figure image_path="/assets/img/folding_tri.png" alt=" An image of a hexagon shape labelled to show where the folds in the surface are. There are two triangles and then a fold, this pattern then repeats and all the folds are orientated in the same way." title= " How to fold a flexagon" %}
+{% include figure image_path="/assets/img/folding_tri_hex.jpeg" alt=" An image of a hexagon shape labelled to show where the folds in the surface are. There are two triangles and then a fold, this pattern then repeats and all the folds are orientated in the same way." title= " How to fold a flexagon" %}
 
 Children might find it interesting to mark the model with different colours to discover how there are actually three surfaces. If they use a pattern like circles in the centre of the model, they will be able to see that the circles split up when they turn the model over.  
 
 ## Other Flexagons 
-
-
 There are many other types of flexagons with a variety of shapes, but another popular model is the hexahexaflexagon. This long name means that it is a model with 6 different sides and can show 6 different faces. See the picture below to see all the different faces this model can show. 
 
 {% include figure image_path="/assets/img/six_hex_surfaces.jpeg" alt=" Six images of a hexagon-like shape, in each figure the shape is a different colour" title= " The six faces of a hexahexaflexagon" %}
