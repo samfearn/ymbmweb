@@ -33,7 +33,7 @@ Child: ***"This is just a little one, the car hasn't gone really fast, just a li
 <br>Child: ***"The black one is long, I can stand it up, I will put more bricks up high like a tower."***
 <br>Child: ***When it goes really really fast it crashes at the bottom."***
 
-The child could rank or record the car speeds and angles. Then they could plot these on a graph to find that the smaller the angle (of the top of the ramp with the vertical), the faster the car moves down the ramp.
+The child could rank or record the car speeds and angles. Then they could plot these on a graph to find that the smaller the angle (of the top of the ramp with the vertical), the faster the car moves down the ramp. To read more about recording data when playing with ramps see our [Ramp Play booklet]({{site.baseulr}}/ramp_play/).
 
 </details>
 <p></p>
