@@ -14,9 +14,7 @@ header:
   teaser_alt: A photo of leaves on a table, sorted into groups by their colours.
   teaser_pos: fit
 ---
-A great way for children to learn about statistics is for them to collect data from the world around them. Below, we look at some examples of children collecting data using the world around them.
-
-Click on the subsections below to see some examples and ideas of how children could collect data from nature. 
+A great way for children to learn about statistics is for them to collect data from the world around them. Click on the sections below to see some examples and ideas of how children could collect data from nature. 
 
 <details open markdown ="1">
 <summary markdown="span">**Sorting Leaves**</summary>
