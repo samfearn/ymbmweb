@@ -74,7 +74,7 @@ We can still tessellate identical copies of these types of triangles. An example
 <details markdown ="1">
 <summary markdown="span">**Right-Angled Triangles**</summary>
 <p></p>
-These types of triangles are a special type of scalene triangle where one of the angles is a right angle. This means that the other two angles must form a right angle. You can make a right-angled paper triangle and use the tearing method again to show this. A right-angled triangle can also be an isosceles triangle if the other two angles are equal (this would mean they are both $$45^\{circ}$$). 
+These types of triangles are a special type of scalene triangle where one of the angles is a right angle. This means that the other two angles must form a right angle. You can make a right-angled paper triangle and use the tearing method again to show this. A right-angled triangle can also be an isosceles triangle if the other two angles are equal (this would mean they are both $$45^{\circ}$$). 
 
 {% include figure image_path="/assets/img/right_angled_triangle.jpeg" alt="A right-angled triangle." title="A right-angled triangle" %}
 
