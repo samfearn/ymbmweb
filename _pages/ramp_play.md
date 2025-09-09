@@ -19,7 +19,7 @@ The ramp play booklet is a guide for practitioners, all about exploring maths th
 
 {% include figure image_path="/assets/img/ramps_cover.png" alt="The front cover of the Ramp Play booklet" title="Fill out a short form and download the booklet as a PDF" url = "https://forms.office.com/e/ueAusYef12"%}
 
-We have lots of copies printed, so if you'd like some to distribute around your network, please get in touch using the form below. We also hope to soon be able to send individual copies for the price of postage and packaging.
+We have lots of copies printed, so if you'd like a large number of booklets to distribute around your network, please get in touch using the form below. We also hope to soon be able to send small numbers of booklets for the price of postage and packaging.
 
 [Contact us about getting printed booklets for your network](https://forms.office.com/Pages/ResponsePage.aspx?id=i9hQcmhLKUW-RNWaLYpvlPDEhkwUqaNMixPXeJmcrLVUMUlRVlVWSVBUWTI3V0hHVDVHMlA4SzE5VC4u){:target="_blank"}
 
