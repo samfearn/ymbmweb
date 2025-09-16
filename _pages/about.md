@@ -32,12 +32,16 @@ The project equips EY educators to explore and extend maths with children 'where
 
 In this website, we aim to re-create some of the open-ended, child-led nature of the Young Minds Big Maths meetings. By finding articles using the topic filters you can hopefully find some maths that is relevant to the interests of the children you work with, and some ideas of how to explore that maths in a number of ways. Although the project is focussed on early years children, we hope it might be useful for those working with children of all ages.
 
-We have tried to keep the articles very specific to one idea or connection each, but the topics mean it should be easy to find collections of related articles. If you'd like to contribute an article, you can find out how to do so [here](https://github.com/samfearn/ymbmweb).
+We have tried to keep the articles very specific to one idea or connection each, but the topics mean it should be easy to find collections of related articles. If you'd like to contribute an article, you can find out how to do so [here](https://github.com/samfearn/ymbmweb){:target="_blank"}.
 
 {% include figure image_path="/assets/img/heart_shape_quote.png" alt="A summary of investigations by children about whether a heart can have a right angle. This culminated in a child formulating a new type of shape, the 'mountain heart'" title = "Does a heart have a right angle?" %}
 
 
 ## Recent news
+
+### Ramp play booklet
+
+We've recently released a booklet for practitioners all about exploring maths through ramp play. You can access it [here]({{site.baseulr}}/ramp_play/). We're also excited to be featured on the [Early Childhood Maths Group blog](https://earlymaths.org/ramp-play/){:target="_blank"}.
 
 ### IAA funding
 
